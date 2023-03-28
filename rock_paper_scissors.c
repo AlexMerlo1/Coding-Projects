@@ -2,7 +2,6 @@
 #include <ctype.h>
 #include <stdlib.h>
 #include <string.h>
-int number_of_games = 3;
 int const start_bucks = 100;
 int grizz_bucks = start_bucks;
 int comp_move;
